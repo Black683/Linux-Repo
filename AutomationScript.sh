@@ -4,7 +4,7 @@
 
 $Number1
 $Number2
-
+$Number3
 read -p " Enter one number for the additon opperation: " Number1
 read -p " Enter the second number for the addition opperation: " Number2
 
