@@ -1,11 +1,11 @@
-public class Test 
+public class Userpage
 {
-	public static void main(strings[] args)
+	public static void main(String[] args)
 	{
 		int x = 10;
 		int y = 20;
 		int sum = x + y;
-		systemt.out.println(" the addition is ",+sum); 
+		System.out.println(" the addition is " + sum); 
 	}
 
 }
